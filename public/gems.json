@@ -1,0 +1,362 @@
+[
+    {
+        "name": "MG-43 Machine Gun",
+        "code": "DLDUR",
+        "catagory": "Patriotic Adminstration Center",
+        "type": "Supply"
+    },
+    {
+        "name": "APW-1 Anti-Materiel Rifle",
+        "code": "DLRUD",
+        "catagory": "Patriotic Adminstration Center",
+        "type": "Supply"
+    },
+    {
+        "name": "M-105 Stalwart",
+        "code": "DLDUUL",
+        "catagory": "Patriotic Adminstration Center",
+        "type": "Supply"
+    },
+    {
+        "name": "EAT-17 Expendable Anti-Tank",
+        "code": "DDLUR",
+        "catagory": "Patriotic Adminstration Center",
+        "type": "Supply"
+    },
+    {
+        "name": "GR-8 Recoilless Rifle",
+        "code": "DLRRL",
+        "catagory": "Patriotic Adminstration Center",
+        "type": "Supply"
+    },
+    {
+        "name": "FLAM-40 Incinerator Flamethrower",
+        "code": "DLUDU",
+        "catagory": "Patriotic Adminstration Center",
+        "type": "Supply"
+    },
+    {
+        "name": "AC-8 Autocannon",
+        "code": "DLDUUR",
+        "catagory": "Patriotic Adminstration Center",
+        "type": "Supply"
+    },
+    {
+        "name": "RS-422 Railgun",
+        "code": "DRDULR",
+        "catagory": "Patriotic Adminstration Center",
+        "type": "Supply"
+    },
+    {
+        "name": "FAF-14 Spear",
+        "code": "DDUDD",
+        "catagory": "Patriotic Adminstration Center",
+        "type": "Supply"
+    },
+    {
+        "name": "Orbital Gatling Barrage",
+        "code": "RDLUU",
+        "catagory": "Orbital Cannons",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital Airburst Strike",
+        "code": "RRR",
+        "catagory": "Orbital Cannons",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital 120MM HE Barrage",
+        "code": "RRDLRD",
+        "catagory": "Orbital Cannons",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital 380MM HE Barrage",
+        "code": "RDUULDD",
+        "catagory": "Orbital Cannons",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital Walking Barrage",
+        "code": "RDRDRD",
+        "catagory": "Orbital Cannons",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital Laser",
+        "code": "RDURD",
+        "catagory": "Orbital Cannons",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital Railcannon Strike",
+        "code": "RUDDR",
+        "catagory": "Orbital Cannons",
+        "type": "Offensive"
+    },
+    {
+        "name": "Eagle Strafing Run",
+        "code": "URR",
+        "catagory": "Hangar",
+        "type": "Offensive"
+    },
+    {
+        "name": "Eagle Airstrike",
+        "code": "URDR",
+        "catagory": "Hangar",
+        "type": "Offensive"
+    },
+    {
+        "name": "Eagle Cluster Bomb",
+        "code": "URDDR",
+        "catagory": "Hangar",
+        "type": "Offensive"
+    },
+    {
+        "name": "Eagle Napalm Airstrike",
+        "code": "URDU",
+        "catagory": "Hangar",
+        "type": "Offensive"
+    },
+    {
+        "name": "LIFT-850 Jump Pack",
+        "code": "DUUDU",
+        "catagory": "Hangar",
+        "type": "Supply"
+    },
+    {
+        "name": "Eagle Smoke Strike",
+        "code": "URUD",
+        "catagory": "Hangar",
+        "type": "Offensive"
+    },
+    {
+        "name": "Eagle 110MM Rocket Pods",
+        "code": "URUL",
+        "catagory": "Hangar",
+        "type": "Offensive"
+    },
+    {
+        "name": "Eagle 500KG Bomb",
+        "code": "URDDD",
+        "catagory": "Hangar",
+        "type": "Offensive"
+    },
+    {
+        "name": "Eagle Rearm",
+        "code": "UULUR",
+        "catagory": "Hangar",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital Precision Strike",
+        "code": "RRU",
+        "catagory": "Bridge",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital Gas Strike",
+        "code": "RRDR",
+        "catagory": "Bridge",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital EMS Strike",
+        "code": "RRLD",
+        "catagory": "Bridge",
+        "type": "Offensive"
+    },
+    {
+        "name": "Orbital Smoke Strike",
+        "code": "RRDU",
+        "catagory": "Bridge",
+        "type": "Offensive"
+    },
+    {
+        "name": "HMG Emplacement",
+        "code": "DULRRL",
+        "catagory": "Bridge",
+        "type": "Defensive"
+    },
+    {
+        "name": "Shield Generator Relay",
+        "code": "DDLRLR",
+        "catagory": "Bridge",
+        "type": "Defensive"
+    },
+    {
+        "name": "Tesla Tower",
+        "code": "DURULR",
+        "catagory": "Bridge",
+        "type": "Defensive"
+    },
+    {
+        "name": "Anti-Personnel Minefield",
+        "code": "DLUR",
+        "catagory": "Engineering Bay",
+        "type": "Defensive"
+    },
+    {
+        "name": "B-1 Supply Pack",
+        "code": "DLDUUD",
+        "catagory": "Engineering Bay",
+        "type": "Supply"
+    },
+    {
+        "name": "GL-21 Grenade Launcher",
+        "code": "DLULD",
+        "catagory": "Engineering Bay",
+        "type": "Supply"
+    },
+    {
+        "name": "LAS-98 Laser Cannon",
+        "code": "DLDUL",
+        "catagory": "Engineering Bay",
+        "type": "Supply"
+    },
+    {
+        "name": "Incendiary Mines",
+        "code": "DLLD",
+        "catagory": "Engineering Bay",
+        "type": "Defensive"
+    },
+    {
+        "name": "AXLAS-5 Guard Dog Rover",
+        "code": "DULURR",
+        "catagory": "Engineering Bay",
+        "type": "Supply"
+    },
+    {
+        "name": "SH-20 Ballistic Shield Backpack",
+        "code": "DLDDUL",
+        "catagory": "Engineering Bay",
+        "type": "Supply"
+    },
+    {
+        "name": "ARC-3 Arc Thrower",
+        "code": "DRDULL",
+        "catagory": "Engineering Bay",
+        "type": "Supply"
+    },
+    {
+        "name": "LAS-99 Quasar Cannon",
+        "code": "DDULR",
+        "catagory": "Engineering Bay",
+        "type": "Supply"
+    },
+    {
+        "name": "SH-32 Shield Generator Pack",
+        "code": "DULRLR",
+        "catagory": "Engineering Bay",
+        "type": "Supply"
+    },
+    {
+        "name": "Machine Gun Sentry",
+        "code": "DURRU",
+        "catagory": "Robotic Workshop",
+        "type": "Defensive"
+    },
+    {
+        "name": "Gatling Sentry",
+        "code": "DURL",
+        "catagory": "Robotic Workshop",
+        "type": "Defensive"
+    },
+    {
+        "name": "Mortar Sentry",
+        "code": "DURRD",
+        "catagory": "Robotic Workshop",
+        "type": "Defensive"
+    },
+    {
+        "name": "AD-334 Guard Dog",
+        "code": "DULURD",
+        "catagory": "Robotic Workshop",
+        "type": "Supply"
+    },
+    {
+        "name": "Autocannon Sentry",
+        "code": "DURULU",
+        "catagory": "Robotic Workshop",
+        "type": "Defensive"
+    },
+    {
+        "name": "Rocket Sentry",
+        "code": "DURRL",
+        "catagory": "Robotic Workshop",
+        "type": "Defensive"
+    },
+    {
+        "name": "EMS Mortar Sentry",
+        "code": "DURDR",
+        "catagory": "Robotic Workshop",
+        "type": "Defensive"
+    },
+    {
+        "name": "EXO-45 Patriot Exosuit",
+        "code": "LDRULDD",
+        "catagory": "Robotic Workshop",
+        "type": "Defensive"
+    },
+    {
+        "name": "Resupply",
+        "code": "DDUR",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    },
+    {
+        "name": "Reinforce",
+        "code": "UDRLU",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    },
+    {
+        "name": "SOS Beacon",
+        "code": "UDRU",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    },
+    {
+        "name": "Upload Data",
+        "code": "DDUUU",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    },
+    {
+        "name": "Hellbomb",
+        "code": "DULDURDU",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    },
+    {
+        "name": "SEAF Artillery",
+        "code": "RUUD",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    },
+    {
+        "name": "Seismic Probe",
+        "code": "UULRDD",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    },
+    {
+        "name": "Prospecting Drill",
+        "code": "DDLRDD",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    },
+    {
+        "name": "Orbital Illumination Flare",
+        "code": "RRLL",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    },
+    {
+        "name": "Super Earth Flag",
+        "code": "DUDU",
+        "catagory": "Mission Stratagems",
+        "type": "Mission"
+    }
+]
