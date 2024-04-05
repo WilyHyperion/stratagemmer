@@ -1,7 +1,7 @@
 'use client'
 import { useSearchParams } from 'next/navigation'
 import Header from '../components/header'
-import { use, useEffect, useState } from 'react'
+import { Suspense, use, useEffect, useState } from 'react'
 import Image from 'next/image'
 const gems = require('../../public/gems.json') as { name: string, code: string }[]
 function codeToArrow(code: string) {
@@ -81,6 +81,7 @@ export default function Game() {
 
     }
     return (
+        <Suspense>
         <>
             <Header />
             <div id="game" className="flex flex-row items-center justify-center bg-gray-500 w-full min-h-[100vh]">
@@ -93,5 +94,6 @@ export default function Game() {
                 </div>
             </div>
         </>
+        </Suspense>
     )
 }
